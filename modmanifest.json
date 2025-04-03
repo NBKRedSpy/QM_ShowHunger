@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "NBKRedSpy_ShowHunger",
+  "Assemblies": [
+    "ShowHunger.dll"
+  ],
+  "Dependencies": []
+}
