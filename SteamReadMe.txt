@@ -1,10 +1,6 @@
 [h1]Quasimorph ShowHunger[/h1]
 
 
-[h1]Beta Only[/h1]
-
-This is currently only for the opt in beta, and not the current release.
-
 [h1]Docs[/h1]
 
 This mod adds a negative "hunger" number to the left of the normal food number.

@@ -2,9 +2,6 @@
 
 ![thumbnail icon](media/thumbnail.png)
 
-# Beta Only
-This is currently only for the opt in beta, and not the current release.
-
 # Docs
 
 This mod adds a negative "hunger" number to the left of the normal food number.
